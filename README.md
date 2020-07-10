@@ -1,6 +1,4 @@
-# MiniEye UT Trials
-
-## 2020 07 11 - **CAD Viewer Education UT**
+# **CAD Viewer Education UT**
 
 CAD 프로그램 UT 진행. 시선추적 및 분석 영상 렌더링.
 
