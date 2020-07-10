@@ -1,6 +1,10 @@
 # **CAD Viewer Education UT**
 
-진행날짜: 2020 07 10
+> 진행사항: 이민구 외 2인, 2020.07.10 10am ~ 4pm
+>
+> 4 alpha tester participants.
+>
+> MSI GE75 Raider 8SF / SDK version (Data Processor:200304 | Windows Calibrator:200709 | Renderer:200711)
 
 CAD 프로그램 UT 진행. 시선추적 및 분석 영상 렌더링.
 
